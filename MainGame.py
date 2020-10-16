@@ -1,5 +1,5 @@
 #Date: March 21st, 2020
-#Written by: Me and my friend
+#Written by: Me
 #Description: First project made in pygame, simple RPG multiplayer game
 
 import sys
